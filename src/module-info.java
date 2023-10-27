@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Lipe
- *
- */
-module ChessSystem {
-}
